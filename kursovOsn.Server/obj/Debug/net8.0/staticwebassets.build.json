@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "j1yrblDPgeiJ5CZxEMAksM+qwkvG/6XZtdS9Xd/MCqs=",
+  "Source": "kursovOsn.Server",
+  "BasePath": "_content/kursovOsn.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\kursovosn.client.esproj",
+      "Version": 2,
+      "Source": "kursovosn.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
