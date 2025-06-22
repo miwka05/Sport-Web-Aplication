@@ -93,7 +93,7 @@ const TeamDetails = () => {
             <p><strong>Город:</strong> {team.city}</p>
             <p><strong>Возраст:</strong> {team.age}</p>
             <p><strong>Вид спорта:</strong> {team.sport}</p>
-            <p><strong>Создатель:</strong> {team.creator}</p>
+            <p><strong>Создатель:</strong> <Link to={`/profile/${team.creatorId}`}>{team.creator}</Link></p>
             {team.creatorId === currentUserId && (
                 <Link to={`/team/${team.id}/edit`}>
                     <button>Редактировать команду</button>

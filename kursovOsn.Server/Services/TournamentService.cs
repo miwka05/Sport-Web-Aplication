@@ -54,11 +54,16 @@ namespace kursovOsn.Server.Services
         {
             if (id != tournament.ID)
             {
-                return null;
+                return null; 
             }
 
+            tournament.Start = DateTime.SpecifyKind(tournament.Start, DateTimeKind.Utc);
+            tournament.End = DateTime.SpecifyKind(tournament.End, DateTimeKind.Utc);
+            tournament.Format_ID = tournament.Format.ID;
             _context.Entry(tournament).State = EntityState.Modified;
+
             await _context.SaveChangesAsync();
+
             return tournament;
         }
 

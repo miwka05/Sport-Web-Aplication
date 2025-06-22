@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yCI6jhF0KTc=",
+  "dgSpecHash": "dAW01/FohGI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\kursovOsn.Server.csproj",
+  "projectFilePath": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\kursovOsn.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yamiw\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\yamiw\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

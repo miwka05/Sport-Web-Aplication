@@ -103,7 +103,10 @@ namespace kursovOsn.Server.Controllers
                 tournament.Status,
                 tournament.solo,
                 tournament.ban,
-                tournament.reasonBan
+                tournament.reasonBan,
+                tournament.Sport_ID,
+                tournament.Format_ID,
+                FormatName = tournament.Format.Name
             });
         }
 

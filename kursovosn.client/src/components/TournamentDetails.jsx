@@ -67,7 +67,8 @@ const TournamentDetails = () => {
         const fetchMatches = async () => {
             try {
                 const response = await axios.get(`http://localhost:5082/api/tournament/${id}/matches`);
-                setMatches(response.data.$values);
+                const sorted = response.data.$values.sort((a, b) => new Date(a.date) - new Date(b.date));
+                setMatches(sorted);
             } catch (error) {
                 console.error("Ошибка загрузки матчей:", error);
             }
@@ -79,11 +80,17 @@ const TournamentDetails = () => {
                 const response = await axios.get(`http://localhost:5082/api/tournament/${id}/userMatches`, {
                     headers: { Authorization: `Bearer ${token}` }
                 });
+
                 const userId = JSON.parse(atob(token.split('.')[1])).nameid;
-                const schedule = response.data.$values.filter(match =>
-                    match.player1Id === userId || match.player2Id === userId ||
-                    teams.some(t => t.id === match.team1Id || t.id === match.team2Id)
-                );
+
+                // фильтрация и сортировка
+                const schedule = response.data.$values
+                    .filter(match =>
+                        match.player1Id === userId || match.player2Id === userId ||
+                        teams.some(t => t.id === match.team1Id || t.id === match.team2Id)
+                    )
+                    .sort((a, b) => new Date(a.date) - new Date(b.date)); // ⬅ сортировка по дате
+
                 setUserSchedule(schedule);
             } catch (error) {
                 console.error("Ошибка загрузки личного расписания:", error);
@@ -259,7 +266,7 @@ const TournamentDetails = () => {
         <div>
             <h1>{tournament.name}</h1>
             <p><strong>Вид спорта:</strong> {tournament.sport?.name}</p>
-            <p><strong>Формат:</strong> {tournament.format?.name}</p>
+            <p><strong>Формат:</strong> {tournament.formatName}</p>
             <p><strong>Дата проведения:</strong> {new Date(tournament.start).toLocaleDateString()} – {new Date(tournament.end).toLocaleDateString()}</p>
             <p><strong>Адрес:</strong> {tournament.adress}</p>
             <p><strong>Возраст:</strong> {tournament.age}</p>

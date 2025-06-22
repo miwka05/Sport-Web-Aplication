@@ -1,1 +1,2 @@
 C:\Users\yamiw\source\repos\kursovOsn\kursovosn.client\obj\Debug\kursovosn.client.esproj.CoreCompileInputs.cache
+C:\Users\yamiw\source\repos\kursovOsn\Sport-Web-Aplication\kursovosn.client\obj\Debug\kursovosn.client.esproj.CoreCompileInputs.cache

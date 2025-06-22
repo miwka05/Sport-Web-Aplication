@@ -1,205 +1,209 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\",
+  "WorkspaceRootPath": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\tournamentdetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\tournamentdetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\tournamentdetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\controllers\\tournamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\controllers\\tournamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\services\\tournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\services\\tournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\services\\itournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\services\\itournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\tournamentform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\tournamentform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\tournamentform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\tournamententries.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\tournamententries.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\controllers\\tournamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\controllers\\tournamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\teamdetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\teamdetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\edittournament.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\edittournament.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\tournamentlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\tournamentlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\teamentries.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\teamentries.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\profile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\profile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\models\\tournamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\tournamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\teamedit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\teamedit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\teamform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\teamform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\bannedtournamentspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\bannedtournamentspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\userprofile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\userprofile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\teamlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\teamlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\services\\teamservice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\services\\teamservice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\models\\matchscoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\matchscoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\services\\userservice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\services\\userservice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\services\\authservice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\services\\authservice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\editprofile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\editprofile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\models\\matchstatsupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\matchstatsupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\models\\team_statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\team_statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\models\\sport_statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\sport_statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\models\\creatematchwithstagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\creatematchwithstagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\models\\matchstatisticdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\matchstatisticdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\models\\tournament_stages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\tournament_stages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\models\\tournament_standings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\tournament_standings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\models\\play_off.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\play_off.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\models\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\models\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\matchedit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\matchedit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\tournamententries.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\tournamententries.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\creatematch.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\creatematch.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\services\\tournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\services\\tournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\models\\createtournamententrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\createtournamententrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\models\\tournamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\tournamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\models\\createtournamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\edittournament.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\edittournament.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\services\\tournamentservice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\services\\tournamentservice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\teamedit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\teamedit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\teamdetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\teamdetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\services\\itournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\services\\itournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\models\\createtournamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\createtournamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\services\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\services\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\models\\tournament_standings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\tournament_standings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\services\\imatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\services\\imatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\models\\tournament_stages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\tournament_stages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\models\\player_statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\models\\team_statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\team_statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\models\\sport_statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\sport_statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\models\\play_off.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\play_off.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\models\\player_statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\player_statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\tournamentlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\tournamentlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\teamentries.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\teamentries.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\profile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\profile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\teamform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\teamform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\bannedtournamentspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\bannedtournamentspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\userprofile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\userprofile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\teamlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\teamlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\services\\teamservice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\services\\teamservice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\models\\matchscoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\matchscoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\services\\userservice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\services\\userservice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\services\\authservice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\services\\authservice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\editprofile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\editprofile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\models\\matchstatsupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\matchstatsupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\models\\creatematchwithstagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\creatematchwithstagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\models\\matchstatisticdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\matchstatisticdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\matchedit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\matchedit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\creatematch.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\creatematch.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\models\\createtournamententrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\models\\createtournamententrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\services\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\services\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\services\\imatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\services\\imatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.server\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.server\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3050E94A-A31D-490E-8423-11103231AB6F}|kursovOsn.Server\\kursovOsn.Server.csproj|solutionrelative:kursovosn.server\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\kursovosn.client\\src\\components\\changepassword.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|c:\\users\\yamiw\\source\\repos\\kursovosn\\sport-web-aplication\\kursovosn.client\\src\\components\\changepassword.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{3B12E592-C5F0-2DC6-3061-A645D1CE2230}|kursovosn.client\\kursovosn.client.esproj|solutionrelative:kursovosn.client\\src\\components\\changepassword.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
@@ -210,15 +214,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 36,
               "Title": "main.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\main.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\main.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\main.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\main.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\main.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
@@ -227,11 +231,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\App.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\App.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\App.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\App.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\App.jsx",
               "ViewState": "AgIAABYAAAAAAAAAAAAqwBkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
@@ -240,11 +244,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 37,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Program.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Program.cs",
               "RelativeToolTip": "kursovOsn.Server\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -254,25 +258,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Register.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\Register.jsx",
-              "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\Register.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\Register.jsx",
-              "RelativeToolTip": "kursovosn.client\\src\\components\\Register.jsx",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAE4AAAASAAAAAAAAAA==",
+              "Title": "tournamentService.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\services\\tournamentService.jsx",
+              "RelativeDocumentMoniker": "kursovosn.client\\src\\services\\tournamentService.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\services\\tournamentService.jsx",
+              "RelativeToolTip": "kursovosn.client\\src\\services\\tournamentService.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-06-21T05:05:08.062Z",
+              "WhenOpened": "2025-06-22T05:34:06.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 22,
+              "Title": "Register.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\Register.jsx",
+              "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\Register.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\Register.jsx",
+              "RelativeToolTip": "kursovosn.client\\src\\components\\Register.jsx",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAE4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-21T05:05:08.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TournamentForm.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TournamentForm.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TournamentForm.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\TournamentForm.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TournamentForm.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TournamentForm.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\TournamentForm.jsx",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAuwHQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAHQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-06-20T08:22:41.409Z",
               "EditorCaption": ""
@@ -281,60 +297,59 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "EditTournament.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\EditTournament.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\EditTournament.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\EditTournament.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\EditTournament.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\EditTournament.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\EditTournament.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-06-20T08:18:31.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 10,
               "Title": "TeamEdit.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TeamEdit.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TeamEdit.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\TeamEdit.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TeamEdit.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TeamEdit.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\TeamEdit.jsx",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-06-20T08:05:56.812Z"
+              "WhenOpened": "2025-06-20T08:05:56.812Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "TeamEntries.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TeamEntries.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TeamEntries.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\TeamEntries.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TeamEntries.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TeamEntries.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\TeamEntries.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-06-20T07:41:14.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T07:41:14.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "Profile.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\Profile.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\Profile.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\Profile.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\Profile.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\Profile.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\Profile.jsx",
               "ViewState": "AgIAAGUAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-06-20T07:21:37.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T07:21:37.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "TournamentEntries.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TournamentEntries.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TournamentEntries.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\TournamentEntries.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TournamentEntries.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TournamentEntries.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\TournamentEntries.jsx",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
@@ -343,52 +358,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "TeamController.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Controllers\\TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Controllers\\TeamController.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Controllers\\TeamController.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Controllers\\TeamController.cs",
               "RelativeToolTip": "kursovOsn.Server\\Controllers\\TeamController.cs",
               "ViewState": "AgIAAK8AAAAAAAAAAAAAAJAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T06:01:02.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T06:01:02.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "TeamDetails.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TeamDetails.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TeamDetails.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\TeamDetails.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TeamDetails.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TeamDetails.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\TeamDetails.jsx",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAF8AAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-06-20T05:55:08.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Tournament.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Tournament.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Tournament.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Models\\Tournament.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Tournament.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Tournament.cs",
               "RelativeToolTip": "kursovOsn.Server\\Models\\Tournament.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T05:50:16.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "TournamentService.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Services\\TournamentService.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Services\\TournamentService.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Services\\TournamentService.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Services\\TournamentService.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Services\\TournamentService.cs",
               "RelativeToolTip": "kursovOsn.Server\\Services\\TournamentService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T05:48:18.999Z",
               "EditorCaption": ""
@@ -397,22 +411,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TournamentDetails.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TournamentDetails.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TournamentDetails.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\TournamentDetails.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TournamentDetails.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TournamentDetails.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\TournamentDetails.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAGEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-05-20T05:17:04.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "UserProfile.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\UserProfile.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\UserProfile.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\UserProfile.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\UserProfile.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\UserProfile.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\UserProfile.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
@@ -420,24 +434,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Team.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Team.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Team.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Models\\Team.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Team.cs",
               "RelativeToolTip": "kursovOsn.Server\\Models\\Team.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAzwAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T12:24:35.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T12:24:35.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "Login.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\Login.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\Login.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\Login.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\Login.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\Login.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\Login.jsx",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
@@ -445,11 +458,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "TeamForm.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TeamForm.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TeamForm.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\TeamForm.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TeamForm.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TeamForm.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\TeamForm.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
@@ -457,24 +470,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "TournamentList.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TournamentList.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TournamentList.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\TournamentList.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TournamentList.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TournamentList.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\TournamentList.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-05-21T11:18:13.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T11:18:13.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "BannedTournamentsPage.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\BannedTournamentsPage.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\BannedTournamentsPage.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\BannedTournamentsPage.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\BannedTournamentsPage.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\BannedTournamentsPage.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\BannedTournamentsPage.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
@@ -482,37 +494,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Controllers\\AuthController.cs",
               "RelativeToolTip": "kursovOsn.Server\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAAADIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:19:48.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T03:19:48.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TournamentController.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Controllers\\TournamentController.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Controllers\\TournamentController.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Controllers\\TournamentController.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Controllers\\TournamentController.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Controllers\\TournamentController.cs",
               "RelativeToolTip": "kursovOsn.Server\\Controllers\\TournamentController.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAqwGwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T09:02:55.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "MatchScoreDto.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\MatchScoreDto.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\MatchScoreDto.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Models\\MatchScoreDto.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\MatchScoreDto.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\MatchScoreDto.cs",
               "RelativeToolTip": "kursovOsn.Server\\Models\\MatchScoreDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -520,11 +531,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
               "Title": "userService.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\services\\userService.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\services\\userService.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\services\\userService.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\services\\userService.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\services\\userService.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\services\\userService.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
@@ -532,11 +543,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "CreateMatch.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\CreateMatch.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\CreateMatch.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\CreateMatch.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\CreateMatch.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\CreateMatch.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\CreateMatch.jsx",
               "ViewState": "AgIAABYAAAAAAAAAAAAAACUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
@@ -544,11 +555,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 40,
               "Title": "MatchStatsUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\MatchStatsUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\MatchStatsUpdateDto.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Models\\MatchStatsUpdateDto.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\MatchStatsUpdateDto.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\MatchStatsUpdateDto.cs",
               "RelativeToolTip": "kursovOsn.Server\\Models\\MatchStatsUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -556,11 +567,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "MatchEdit.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\MatchEdit.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\MatchEdit.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\MatchEdit.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\MatchEdit.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\MatchEdit.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\MatchEdit.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
@@ -568,11 +579,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "TeamList.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TeamList.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TeamList.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\TeamList.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\TeamList.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\TeamList.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\TeamList.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
@@ -580,11 +591,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 38,
               "Title": "authService.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\services\\authService.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\services\\authService.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\services\\authService.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\services\\authService.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\services\\authService.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\services\\authService.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
@@ -592,35 +603,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 14,
               "Title": "Tournament_Standings.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Tournament_Standings.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Tournament_Standings.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Models\\Tournament_Standings.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Tournament_Standings.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Tournament_Standings.cs",
               "RelativeToolTip": "kursovOsn.Server\\Models\\Tournament_Standings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T13:20:10.31Z"
+              "WhenOpened": "2025-05-23T13:20:10.31Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 3,
               "Title": "Sport.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Sport.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Sport.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Models\\Sport.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Sport.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Sport.cs",
               "RelativeToolTip": "kursovOsn.Server\\Models\\Sport.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T13:07:58.26Z"
+              "WhenOpened": "2025-05-24T13:07:58.26Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 19,
               "Title": "Play_Off.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Play_Off.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Play_Off.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Models\\Play_Off.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Play_Off.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Play_Off.cs",
               "RelativeToolTip": "kursovOsn.Server\\Models\\Play_Off.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -628,23 +641,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 6,
               "Title": "TournamentDto.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\TournamentDto.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\TournamentDto.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Models\\TournamentDto.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\TournamentDto.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\TournamentDto.cs",
               "RelativeToolTip": "kursovOsn.Server\\Models\\TournamentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T11:08:00.253Z"
+              "WhenOpened": "2025-05-21T11:08:00.253Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 15,
               "Title": "Tournament_Stages.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Tournament_Stages.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Tournament_Stages.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Models\\Tournament_Stages.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Tournament_Stages.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Tournament_Stages.cs",
               "RelativeToolTip": "kursovOsn.Server\\Models\\Tournament_Stages.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -652,11 +666,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "CreateTournamentEntryDto.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\CreateTournamentEntryDto.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\CreateTournamentEntryDto.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Models\\CreateTournamentEntryDto.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\CreateTournamentEntryDto.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\CreateTournamentEntryDto.cs",
               "RelativeToolTip": "kursovOsn.Server\\Models\\CreateTournamentEntryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -664,36 +678,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 13,
               "Title": "CreateTournamentDto.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\CreateTournamentDto.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\CreateTournamentDto.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Models\\CreateTournamentDto.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\CreateTournamentDto.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\CreateTournamentDto.cs",
               "RelativeToolTip": "kursovOsn.Server\\Models\\CreateTournamentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T11:08:38.969Z"
+              "WhenOpened": "2025-05-21T11:08:38.969Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "ITournamentService.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Services\\ITournamentService.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Services\\ITournamentService.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Services\\ITournamentService.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Services\\ITournamentService.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Services\\ITournamentService.cs",
               "RelativeToolTip": "kursovOsn.Server\\Services\\ITournamentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T05:21:36.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "teamService.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\services\\teamService.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\services\\teamService.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\services\\teamService.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\services\\teamService.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\services\\teamService.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\services\\teamService.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
@@ -701,11 +716,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "ITeamService.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Services\\ITeamService.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Services\\ITeamService.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Services\\ITeamService.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Services\\ITeamService.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Services\\ITeamService.cs",
               "RelativeToolTip": "kursovOsn.Server\\Services\\ITeamService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -713,11 +728,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "IMatchService.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Services\\IMatchService.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Services\\IMatchService.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Services\\IMatchService.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Services\\IMatchService.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Services\\IMatchService.cs",
               "RelativeToolTip": "kursovOsn.Server\\Services\\IMatchService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -725,23 +740,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 18,
               "Title": "Sport_Statistic.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Sport_Statistic.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Sport_Statistic.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Models\\Sport_Statistic.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Sport_Statistic.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Sport_Statistic.cs",
               "RelativeToolTip": "kursovOsn.Server\\Models\\Sport_Statistic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T04:18:26.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 20,
               "Title": "Player_Statistic.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Player_Statistic.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Player_Statistic.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Models\\Player_Statistic.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Player_Statistic.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Player_Statistic.cs",
               "RelativeToolTip": "kursovOsn.Server\\Models\\Player_Statistic.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -749,11 +764,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 16,
               "Title": "Team_Statistic.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Team_Statistic.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Team_Statistic.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Models\\Team_Statistic.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\Team_Statistic.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\Team_Statistic.cs",
               "RelativeToolTip": "kursovOsn.Server\\Models\\Team_Statistic.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -761,11 +776,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 42,
               "Title": "MatchStatisticDto.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\MatchStatisticDto.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\MatchStatisticDto.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Models\\MatchStatisticDto.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\MatchStatisticDto.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\MatchStatisticDto.cs",
               "RelativeToolTip": "kursovOsn.Server\\Models\\MatchStatisticDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -773,11 +788,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "CreateMatchWithStageDto.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\CreateMatchWithStageDto.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\CreateMatchWithStageDto.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Models\\CreateMatchWithStageDto.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Models\\CreateMatchWithStageDto.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Models\\CreateMatchWithStageDto.cs",
               "RelativeToolTip": "kursovOsn.Server\\Models\\CreateMatchWithStageDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -785,11 +800,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 39,
               "Title": "EditProfile.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\EditProfile.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\EditProfile.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\EditProfile.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\EditProfile.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\EditProfile.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\EditProfile.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
@@ -797,11 +812,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Data\\SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Data\\SeedData.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Data\\SeedData.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Data\\SeedData.cs",
               "RelativeToolTip": "kursovOsn.Server\\Data\\SeedData.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAIBJwDUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -809,11 +824,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "ChangePassword.jsx",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\ChangePassword.jsx",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\ChangePassword.jsx",
               "RelativeDocumentMoniker": "kursovosn.client\\src\\components\\ChangePassword.jsx",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovosn.client\\src\\components\\ChangePassword.jsx",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovosn.client\\src\\components\\ChangePassword.jsx",
               "RelativeToolTip": "kursovosn.client\\src\\components\\ChangePassword.jsx",
               "ViewState": "AgIAAAwAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
@@ -821,11 +836,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "MatchService.cs",
-              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Services\\MatchService.cs",
+              "DocumentMoniker": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Services\\MatchService.cs",
               "RelativeDocumentMoniker": "kursovOsn.Server\\Services\\MatchService.cs",
-              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\Services\\MatchService.cs",
+              "ToolTip": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\Services\\MatchService.cs",
               "RelativeToolTip": "kursovOsn.Server\\Services\\MatchService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

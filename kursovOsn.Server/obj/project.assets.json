@@ -7182,11 +7182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\kursovOsn.Server.csproj",
+      "projectUniqueName": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\kursovOsn.Server.csproj",
       "projectName": "kursovOsn.Server",
-      "projectPath": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\kursovOsn.Server.csproj",
+      "projectPath": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\kursovOsn.Server.csproj",
       "packagesPath": "C:\\Users\\yamiw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\obj\\",
+      "outputPath": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

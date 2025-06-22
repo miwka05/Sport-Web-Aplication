@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kursovOsn.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c420c6c0529012e1c62460c1fb42fca9c26077e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("kursovOsn.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kursovOsn.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

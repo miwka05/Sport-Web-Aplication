@@ -38,6 +38,13 @@ const EditTournament = () => {
         }
     };
 
+    // Format date to 'YYYY-MM-DD' format for input fields
+    const formatDate = (date) => {
+        if (!date) return '';
+        const newDate = new Date(date);
+        return newDate.toISOString().slice(0, 10); // 'YYYY-MM-DD'
+    };
+
     if (!tournament) return <p>Загрузка...</p>;
 
     return (
@@ -61,10 +68,10 @@ const EditTournament = () => {
                 </select>
 
                 <label>Дата начала:</label>
-                <input type="date" value={tournament.start.slice(0, 10)} onChange={e => setTournament({ ...tournament, start: e.target.value })} />
+                <input type="date" value={formatDate(tournament.start)} onChange={e => setTournament({ ...tournament, start: e.target.value })} />
 
                 <label>Дата окончания:</label>
-                <input type="date" value={tournament.end.slice(0, 10)} onChange={e => setTournament({ ...tournament, end: e.target.value })} />
+                <input type="date" value={formatDate(tournament.end)} onChange={e => setTournament({ ...tournament, end: e.target.value })} />
 
                 <label>Информация:</label>
                 <textarea value={tournament.info} onChange={e => setTournament({ ...tournament, info: e.target.value })} />
@@ -94,3 +101,4 @@ const EditTournament = () => {
 };
 
 export default EditTournament;
+

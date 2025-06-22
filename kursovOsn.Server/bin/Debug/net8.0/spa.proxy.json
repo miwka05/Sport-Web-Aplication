@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:53686",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\kursovOsn.Server\\..\\kursovosn.client",
+"WorkingDirectory": "C:\\Users\\yamiw\\source\\repos\\kursovOsn\\Sport-Web-Aplication\\kursovOsn.Server\\..\\kursovosn.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }
